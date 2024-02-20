@@ -1,0 +1,20 @@
+.k-rating-item.k-selected {
+  color: #ffa600;
+}
+
+.no-border-sparkline svg > g > path:first-child {
+  fill: none !important;
+}
+
+.no-border-sparkline {
+  width: 100%;
+}
+
+.no-border-sparkline .k-sparkline {
+  width: 100% !important;
+}
+
+.k-badge-container {
+  margin-left: 30px;
+  margin-bottom: 5px;
+}
